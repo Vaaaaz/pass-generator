@@ -4,7 +4,7 @@ import {
   neuemachinabold,
   neuemachinalight,
   neuemachinaregular,
-} from "./static/NeueMachina";
+} from "../static/NeueMachina";
 
 export default function App({ Component, pageProps }: AppProps) {
   return (

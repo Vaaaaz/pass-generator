@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { neuemachinabold, neuemachinalight, neuemachinaregular } from './static/NeueMachina';
+import { neuemachinabold, neuemachinalight, neuemachinaregular } from '../static/NeueMachina';
 
 export default function Home() {
   const [includeNumbers, setIncludeNumbers] = useState(true);
